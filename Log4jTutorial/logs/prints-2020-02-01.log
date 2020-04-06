@@ -1,0 +1,8 @@
+10:36:11.093 [main] FATAL beta.Demo2 - this an fatal msg
+10:37:39.124 [main] DEBUG beta.Demo2 - Demo2 this a an debug msg
+10:37:39.140 [main] INFO  beta.Demo2 - Demo2 object is present
+10:37:39.140 [main] ERROR beta.Demo2 - Demo2 this a error msg
+10:37:39.140 [main] FATAL beta.Demo2 - Demo2 this an fatal msg
+12:19:15.697 [main] DEBUG beta.Demo2 - Demo2 this a an debug msg
+12:19:15.697 [main] INFO  beta.Demo2 - Demo2 object is present
+12:19:15.697 [main] ERROR beta.Demo2 - Demo2 this a error msg
